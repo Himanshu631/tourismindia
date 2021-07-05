@@ -19,6 +19,8 @@
     
 }
 
+
+
 .h-secondary{
     font-size: 2rem;
 }
@@ -51,10 +53,15 @@
     padding: 5px;
 }
 
-#contact{
+#contact-box input{
+    width: 100%;
+    padding: 0.2rem;
+    font-size: 0.7rem;
+    border-radius: 6px;
+    background-color: rgb(255, 255, 234);
+    font-family: 'Merriweather', serif;
 
 }
-
 
 .h-primary{
     font-size: 20px;
